@@ -11,8 +11,8 @@ fi
 
 # 2. تنظیم اطلاعات
 echo "👤 تنظیم اطلاعات کاربری..."
-git config --global user.name "Esmaeil"
-git config --global user.email "your-email@example.com"
+git config --global user.name "@Esmaeilch81"
+git config --global user.email "Esich81@gmail.com"
 
 # 3. ساختار پروژه ایجاد کن
 echo "📁 ایجاد ساختار پروژه..."
